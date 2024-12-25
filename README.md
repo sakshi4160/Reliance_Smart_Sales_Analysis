@@ -1,7 +1,7 @@
 # Reliance_Smart_Sales_Analysis
 
 ### Report Snapshot (Power BI DESKTOP)
-![Reliance Smart Sales Analysis](RSSA_Report.pdf)
+![Reliance Smart Sales Analysis](https://github.com/sakshi4160/Reliance_Smart_Sales_Analysis/blob/main/RSSA_Report.pdf)
  
 
 # Problem Statement:
