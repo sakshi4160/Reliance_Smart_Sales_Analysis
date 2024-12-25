@@ -1,8 +1,8 @@
 # Reliance_Smart_Sales_Analysis
 
 ### Report Snapshot (Power BI DESKTOP)
-![Reliance Smart Sales Analysis](https://github.com/sakshi4160/Reliance_Smart_Sales_Analysis/blob/main/RSSA_Report.pdf)
- 
+![Reliance Smart Sales Analysis](https://github.com/user-attachments/assets/ee983c20-7779-4f42-b893-aa5d57940edb)
+
 
 # Problem Statement:
 This dashboard provides a detailed analysis of Reliance Smart's sales data, helping stakeholders understand key metrics related to product performance, revenue, profit, and returns. Through the visualization of these metrics, Reliance Smart can make informed decisions to optimize product strategy, improve profitability, and achieve sales targets.
